@@ -13,7 +13,7 @@ letters_no = int(input("Enter no of letters you want: "))     # enter required n
 symbols_no = int(input("Enter no of symbols you want: "))
 numbers_no = int(input("Enter no of numbers you want: "))
 
-# print(characters)
+
 
 
 
@@ -24,6 +24,6 @@ password = pletters+psymbols+pnumbers
 l = list(password)
 random.shuffle(l)
 password = "".join(l)
-# print(f"Your {purpose} password is: {password}")
+
 
 # print(string_utils.shuffle(password)) ---> it shuffles the string
