@@ -15,7 +15,7 @@
 
 
 <li>Then the entered can be saved into a text file.</li>
-  <img src="https://user-images.githubusercontent.com/86519287/124020391-d9e19d00-da07-11eb-891c-0b1bd15268a6.png">
+  <img src="https://user-images.githubusercontent.com/86519287/124020391-d9e19d00-da07-11eb-891c-0b1bd15268a6.png" width="800px" height="400px">
   <img src="https://user-images.githubusercontent.com/86519287/124020431-e8c84f80-da07-11eb-9d5e-143558d30533.png">
 </ol>
 
